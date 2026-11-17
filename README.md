@@ -3,7 +3,7 @@
 ES 335 course project (undergraduate track)
 Hamsika Para (23110230) and Aakash Venkatesan (23110002)
 
-- Live website: <PASTE GITHUB PAGES URL, e.g. https://USERNAME.github.io/REPO/>
+- Live website: https://iaakashvenkat.github.io/ES335_ML_PROJECT/
 - Source repository: <PASTE REPO URL, e.g. https://github.com/USERNAME/REPO>
 
 ## Question
