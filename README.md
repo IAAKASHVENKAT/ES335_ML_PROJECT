@@ -4,7 +4,7 @@ ES 335 course project (undergraduate track)
 Hamsika Para (23110230) and Aakash Venkatesan (23110002)
 
 - Live website: https://iaakashvenkat.github.io/ES335_ML_PROJECT/
-- Source repository: <PASTE REPO URL, e.g. https://github.com/USERNAME/REPO>
+- Source repository: https://github.com/IAAKASHVENKAT/ES335_ML_PROJECT/tree/main
 
 ## Question
 Can a store's sales for the coming week be forecast from information known at the start of that week, and does a machine-learning model beat simple rules? One row = one store in one week; target = `Weekly_Sales`.
