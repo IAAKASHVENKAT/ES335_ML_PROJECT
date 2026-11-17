@@ -19,7 +19,7 @@ Can a store's sales for the coming week be forecast from information known at th
 | `requirements.txt` | Python library versions used (Python 3.12). |
 
 ## Data access
-- Source: the Walmart sales dataset on Kaggle (a free Kaggle account is needed to download it from there): <PASTE THE EXACT KAGGLE URL YOU DOWNLOADED FROM>
+- Source: the Walmart sales dataset on Kaggle (a free Kaggle account is needed to download it from there): <PASTE https://www.kaggle.com/datasets/yasserh/walmart-dataset>
 - Columns: Store, Date (dd-mm-yyyy), Weekly_Sales, Holiday_Flag, Temperature, Fuel_Price, CPI, Unemployment.
 - 6,435 rows = 45 stores x 143 weeks (2010-02-05 to 2012-10-26). No missing values, no duplicate store-weeks.
 - The CSV is in this repository, so no download is needed to reproduce the results. Please check the Kaggle dataset's licence/terms before redistributing it elsewhere.
